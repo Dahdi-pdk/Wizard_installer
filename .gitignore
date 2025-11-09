@@ -11,8 +11,7 @@ venv/
 env/
 
 # ===== PyInstaller =====
-build/
-dist/
+
 
 # PyInstaller spec file (optional)
 *.spec
