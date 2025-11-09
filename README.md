@@ -199,9 +199,4 @@ Softwareinstaller wizard/
 **Dahdi Pdk**  
 Pengembang independen & peneliti perangkat lunak  
 Project: _Software for Windows Series_
-
----
-
-Apakah kamu ingin aku bantu buatkan file `README.md` ini dalam format siap disimpan (file asli `.md`) di folder proyekmu?  
-Aku bisa langsung hasilkan file-nya agar kamu tinggal copy ke folder project.
-
+dahdipdk@gmail.com
