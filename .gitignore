@@ -1,0 +1,41 @@
+# ===== Python =====
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Virtual Environment
+Env/
+venv/
+env/
+
+# ===== PyInstaller =====
+build/
+dist/
+
+# PyInstaller spec file (optional)
+*.spec
+
+# ===== Inno Setup =====
+dist_installer/
+
+# ===== IDE/Editor =====
+# VSCode
+.vscode/
+# PyCharm
+.idea/
+
+# ===== OS generated files =====
+# Windows
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Linux
+*~
